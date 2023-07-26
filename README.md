@@ -7,12 +7,12 @@ Food Chef is a cafe and restaurant management website with both user and admin p
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/Sankhala-Rohit/Food-Chef-Cafe-Management.git)  
+3. Download project from github(https://github.com/chetanchitriv/Food-Chef-Cafe-Management.git)  
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/Sankhala-Rohit/Food-Chef-Cafe-Management.git
+    ii>git clone https://github.com/chetanchitriv/Food-Chef-Cafe-Management.git
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -38,9 +38,4 @@ Food Chef is a cafe and restaurant management website with both user and admin p
 ##  If you like my project hit a star button
 ##  Thank You. Have A Good Day.
 
-<a href="https://twitter.com/RohitSankhla13">
-  <img align="left" alt=" Rohit Sankhla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/sankhala_rohit">
-  <img align="left" alt="Rohit Sankhala's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
